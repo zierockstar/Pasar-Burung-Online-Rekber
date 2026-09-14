@@ -1,6 +1,7 @@
 {
   "name": "Pasar Burung Online",
   "short_name": "REKBER",
+  "description": "Pasar Online Burung & Rekber Otomatis",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +10,8 @@
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
